@@ -182,6 +182,9 @@ Beacon配置：
    - 動態參數調整演算法
    - 多環境定位模型切換
 
+## 8. Demo影片
+https://drive.google.com/file/d/1i-ObSf7Gs4Yoms-IY_MxhJVOKQd-MN7r/view
+
 ## 參考資料
 
 1. https://www.st.com/resource/en/datasheet/bluenrg-ms.pdf
