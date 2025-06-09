@@ -1,0 +1,5 @@
+../BlueNRG_MS/App/app_bluenrg_ms.c:91:6:MX_BlueNRG_MS_Init	7
+../BlueNRG_MS/App/app_bluenrg_ms.c:172:6:startScan	1
+../BlueNRG_MS/App/app_bluenrg_ms.c:298:6:MX_BlueNRG_MS_Process	1
+../BlueNRG_MS/App/app_bluenrg_ms.c:320:13:User_Init	1
+../BlueNRG_MS/App/app_bluenrg_ms.c:333:6:BSP_PB_Callback	1

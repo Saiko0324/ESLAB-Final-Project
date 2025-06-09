@@ -1,0 +1,3 @@
+../Core/Src/ble_rssi.c:19:5:match_mac	24	static
+../Core/Src/ble_rssi.c:26:6:kalman_filter_update	32	static
+../Core/Src/ble_rssi.c:50:7:rssi_to_distance	32	static
